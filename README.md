@@ -9,7 +9,8 @@
 
 ## 目录结构
 > Codes Here
->> src -- 用于放置 Java class
+>> src -- 用于放置 Java class  
+>>> 
 >> web -- 存放 web 工程
 >>> * WEB-INF -- 存放不希望用户直接访问的文件，如除了主页外的jsp，当然也可以直接放在根目录下，到时候再说。库依赖也放在这里。
 >>> * css -- 存放 css 样式文件
