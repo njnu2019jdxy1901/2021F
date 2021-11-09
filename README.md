@@ -3,7 +3,7 @@
 * 预计使用 jsp + servlet + Javabean 经典结构实现 MVC 。
 * 服务器使用Tomcat https://tomcat.apache.org/download-90.cgi
 * 数据库使用 MySQL 8
-* 前端使用 bootstrap v4（已在css和js文件夹中），提供的文件也提供了 jstl 支持
+* 前端使用 bootstrap v4（已在css和js文件夹中）官网有中文文档和案例，主要关注下栅格系统，保证我们网页适用不同大小
 * 服务器端计划使用 druid 连接池， Jackson 封装json包， spring 模板（在lib下的jar包，使用前需导入工程中）
 * 开发环境建议使用 IDEA，目录结构请参考下一节
 
